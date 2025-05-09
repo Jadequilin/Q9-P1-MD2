@@ -4,8 +4,11 @@
 ==================================================
 
 Disciplina: Matemática Discreta II
+
 Professora: Cristiane Loesch de Souza Costa
+
 Aluno: Joao Pedro Araujo de Freitas Lyra
+
 Matrícula: 232003661
 
 --------------------------------------------------
